@@ -1,0 +1,13 @@
+#+TITLE: Medical Appointments tasks
+
+* TODO Setup Rails 6.1
+* TODO Install Devise
+* TODO Tests
+** TODO Input text for user symptoms
+** TODO Set an appointment after filling up form
+Validate appointment inputs
+** TODO Send email to user once a doctor accepted an appointment
+Send email after Doctor confirms
+** TODO User can look at their appointments including symptoms
+** OPTIONAL Upload photos of symptoms
+** OPTIONAL Use of StimulusJS
